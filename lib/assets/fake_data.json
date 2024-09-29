@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "name": "Wireless Earbuds",
+        "description": "High-quality wireless earbuds with noise cancellation.",
+        "price": 49.99,
+        "stock": 150,
+        "category": "Electronics",
+        "image_url": "https://picsum.photos/id/1/300/300",
+        "seller": "TechZone"
+    },
+    {
+        "id": "2",
+        "name": "Smart Watch",
+        "description": "Fitness tracker with heart rate monitor and GPS.",
+        "price": 199.99,
+        "stock": 75,
+        "category": "Wearables",
+        "image_url": "https://picsum.photos/id/2/300/300",
+        "seller": "GadgetWorld"
+    },
+    {
+        "id": "3",
+        "name": "4K TV",
+        "description": "55-inch 4K Ultra HD Smart TV with streaming apps.",
+        "price": 699.99,
+        "stock": 30,
+        "category": "Home Appliances",
+        "image_url": "https://picsum.photos/id/3/300/300",
+        "seller": "HomeElectro"
+    },
+    {
+        "id": "4",
+        "name": "Laptop",
+        "description": "Ultra-lightweight laptop with 16GB RAM and 512GB SSD.",
+        "price": 899.99,
+        "stock": 45,
+        "category": "Computers",
+        "image_url": "https://picsum.photos/id/4/300/300",
+        "seller": "LaptopHub"
+    },
+    {
+        "id": "5",
+        "name": "Gaming Chair",
+        "description": "Ergonomic gaming chair with adjustable armrests.",
+        "price": 129.99,
+        "stock": 60,
+        "category": "Furniture",
+        "image_url": "https://picsum.photos/id/5/300/300",
+        "seller": "FurniturePlus"
+    },
+    {
+        "id": "6",
+        "name": "Bluetooth Speaker",
+        "description": "Portable speaker with 12-hour battery life and waterproof design.",
+        "price": 29.99,
+        "stock": 200,
+        "category": "Audio",
+        "image_url": "https://picsum.photos/id/6/300/300",
+        "seller": "SoundWave"
+    },
+    {
+        "id": "7",
+        "name": "Running Shoes",
+        "description": "Breathable running shoes with cushioned soles.",
+        "price": 89.99,
+        "stock": 100,
+        "category": "Footwear",
+        "image_url": "https://picsum.photos/id/7/300/300",
+        "seller": "FitGear"
+    },
+    {
+        "id": "8",
+        "name": "Coffee Maker",
+        "description": "Automatic drip coffee maker with timer and brew strength control.",
+        "price": 59.99,
+        "stock": 80,
+        "category": "Kitchen Appliances",
+        "image_url": "https://picsum.photos/id/8/300/300",
+        "seller": "KitchenEssentials"
+    },
+    {
+        "id": "9",
+        "name": "Air Purifier",
+        "description": "HEPA air purifier with 4 fan speeds and sleep mode.",
+        "price": 149.99,
+        "stock": 40,
+        "category": "Home Appliances",
+        "image_url": "https://picsum.photos/id/9/300/300",
+        "seller": "CleanAir"
+    },
+    {
+        "id": "10",
+        "name": "Tablet",
+        "description": "10.5-inch tablet with 64GB storage and Wi-Fi connectivity.",
+        "price": 329.99,
+        "stock": 65,
+        "category": "Tablets",
+        "image_url": "https://picsum.photos/id/10/300/300",
+        "seller": "GadgetWorld"
+    },
+    {
+        "id": "11",
+        "name": "Electric Kettle",
+        "description": "1.7L stainless steel electric kettle with auto shut-off.",
+        "price": 24.99,
+        "stock": 120,
+        "category": "Kitchen Appliances",
+        "image_url": "https://picsum.photos/id/11/300/300",
+        "seller": "KitchenEssentials"
+    },
+    {
+        "id": "12",
+        "name": "Desk Lamp",
+        "description": "LED desk lamp with adjustable brightness and USB charging port.",
+        "price": 39.99,
+        "stock": 90,
+        "category": "Office Supplies",
+        "image_url": "https://picsum.photos/id/12/300/300",
+        "seller": "OfficePro"
+    },
+    {
+        "id": "13",
+        "name": "Wireless Mouse",
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "price": 19.99,
+        "stock": 170,
+        "category": "Computers",
+        "image_url": "https://picsum.photos/id/13/300/300",
+        "seller": "TechZone"
+    },
+    {
+        "id": "14",
+        "name": "Yoga Mat",
+        "description": "Non-slip yoga mat with carrying strap, 6mm thickness.",
+        "price": 25.99,
+        "stock": 110,
+        "category": "Fitness",
+        "image_url": "https://picsum.photos/id/14/300/300",
+        "seller": "FitGear"
+    },
+    {
+        "id": "15",
+        "name": "Smartphone",
+        "description": "5G-enabled smartphone with 128GB storage and 48MP camera.",
+        "price": 599.99,
+        "stock": 50,
+        "category": "Mobile Phones",
+        "image_url": "https://picsum.photos/id/15/300/300",
+        "seller": "MobileHub"
+    }
+]
